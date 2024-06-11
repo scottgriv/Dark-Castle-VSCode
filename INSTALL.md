@@ -1,19 +1,24 @@
-## Dark Castle Theme for [Example](https://example.com)
+## Dark Castle Theme for [Visual Studio Code](https://code.visualstudio.com/)
 
-### Install using Git
+#### Install using Command Palette
 
-If you are a git user, you1 can install the theme and keep it up to date by cloning the repo:
+1.  Go to `View -> Command Palette` or press `Ctrl+Shift+P`
+2.  Then enter `Install Extension`
+3.  Write `Dracula Official`
+4.  Select it or press Enter to install
+
+#### Install using Git
+
+If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
 ```bash
-git clone https://github.com/scottgriv/Dark-Castle-Example.git
+    git clone https://github.com/scottgriv/Dark-Castle-VSCode.git ~/.vscode/extensions/theme-dark-castle
+    cd ~/.vscode/extensions/theme-dark-castle
+    npm install
+    npm run build
 ```
 
-### Install manually
+#### Activating the Theme
 
-Download using the [GitHub `.zip` download](https://github.com/scottgriv/Dark-Castle-Example/archive/main.zip) option and unzip them.
+Run Visual Studio Code. The Dracula Syntax Theme will be available from `File -> Preferences -> Color Theme` dropdown menu.
 
-### Activating theme
-
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨

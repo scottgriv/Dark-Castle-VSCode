@@ -1,0 +1,21 @@
+{
+  "name": "Dark-Castle",
+  "displayName": "Dark Castle",
+  "description": "Dark Castle is a sophisticated and elegant dark theme available for multiple platforms. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. It's perfect for developers who prefer a dark environment that reduces eye strain while enhancing code readability.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Castle",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Castle-color-theme.json"
+      }
+    ]
+  }
+}
