@@ -4,7 +4,7 @@
 
 1.  Go to `View -> Command Palette` or press `Ctrl+Shift+P`
 2.  Then enter `Install Extension`
-3.  Write `Dracula Official`
+3.  Write `Dark Castle Theme`
 4.  Select it or press Enter to install
 
 #### Install using Git
