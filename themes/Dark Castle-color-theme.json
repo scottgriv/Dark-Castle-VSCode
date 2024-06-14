@@ -353,7 +353,7 @@
 	  "gitDecoration.modifiedResourceForeground": "#4DBCED",
 	  "gitDecoration.deletedResourceForeground": "#ef6b73",
 	  "gitDecoration.untrackedResourceForeground": "#bae67e",
-	  "gitDecoration.ignoredResourceForeground": "#9c9c9c",
+	  "gitDecoration.ignoredResourceForeground": "#575757",
 	  "gitDecoration.conflictingResourceForeground": "#ef6b73",
   
 	  // Settings Editor colors
