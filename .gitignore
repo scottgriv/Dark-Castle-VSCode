@@ -52,3 +52,6 @@ testem.log
 *.DS_Store
 Thumbs.db
 Icon?
+
+# Ignore the .vsix file
+*.vsix
