@@ -1,14 +1,38 @@
 {
   "name": "Dark-Castle",
-  "displayName": "Dark Castle",
+  "displayName": "Dark Castle Theme",
   "description": "Dark Castle is a vibrantly elegant dark theme available for multiple platforms. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. It's perfect for developers who prefer a dark environment that reduces eye strain while enhancing code readability.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "dracula-theme",
+  "homepage": "https://darkcastle.netlify.app/",
+	"license": "MIT",
+  "maintainers": [
+		"Scott Grivner <scott.grivner@nightowllabs.io>"
+	],
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/scottgriv/Dark-Castle-VSCode.git"
+	},
+	"bugs": {
+		"url": "https://github.com/scottgriv/Dark-Castle-VSCode/issues"
+	},
   "engines": {
     "vscode": "^1.89.0"
   },
-  "categories": [
-    "Themes"
-  ],
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"dark-castle",
+		"dark",
+		"theme",
+		"color-theme"
+	],
+	"icon": "docs/images/icon.png",
+  "galleryBanner": {
+		"color": "#3c4557",
+		"theme": "dark"
+	},
   "contributes": {
     "themes": [
       {

@@ -20,5 +20,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 #### Activating the Theme
 
-Run Visual Studio Code. The Dracula Syntax Theme will be available from `File -> Preferences -> Color Theme` dropdown menu.
+1. Run Visual Studio Code. 
+2. Navigate to `Code -> Settings... -> Color Theme -> [Search or Select] Dark Castle Theme` from the dropdown menu.
+3. Enjoy!
 
