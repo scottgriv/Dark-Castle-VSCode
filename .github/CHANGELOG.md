@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Changed
 
 - Foreground color to `##FFD580` from `#BAE67E`.
-- Updated formatting for [Install Instructions](../INSTALL.md)
+- Updated formatting for [Install Instructions](../INSTALL.md).
 
 ## [1.0.3] - 2024-06-14
 
