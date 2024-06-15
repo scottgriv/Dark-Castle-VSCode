@@ -7,26 +7,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.4] - 2024-06-15
 
-## Changed
+### Changed
 
 - Foreground color to `##FFD580` from `#BAE67E`.
 - Updated formatting for [Install Instructions](../INSTALL.md).
 
 ## [1.0.3] - 2024-06-14
 
-## Fixed
+### Fixed
 
 - Fixed ignored files background color.
 
 ## [1.0.2] - 2024-06-14
 
-## Fixed
+### Fixed
 
 - Multiple theme issues including search highlight color, editor foreground, ignored files, etc.
 
 ## [1.0.1] - 2024-06-13
 
-## Fixed
+### Fixed
 
 - Shortened package description for the VSCode store.
 
