@@ -1,6 +1,6 @@
-## Dark Castle Theme for [Visual Studio Code](https://code.visualstudio.com/)
+### [Visual Studio Code](https://code.visualstudio.com/)
 
-#### Install using Command Palette
+##### Install using Command Palette
 
 1. Go to `View -> Command Palette` or press `Ctrl+Shift+P`
 2. Then enter `Install Extension`
@@ -8,7 +8,7 @@
 4. Click `Install`
 5. Select `Dark Castle Theme` from the dropdown menu
 
-#### Install using Git
+##### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
@@ -19,7 +19,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
     npm run build
 ```
 
-#### Activating the Theme
+##### Activating the Theme
 
 1. Run Visual Studio Code. 
 2. Navigate to `Code -> Settings... -> Theme -> Color Theme -> [Search or Select] Dark Castle Theme` from the dropdown menu

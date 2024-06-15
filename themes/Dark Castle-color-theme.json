@@ -4,7 +4,7 @@
 	"colors": {
 	  // Base colors
 	  "focusBorder": "#9c9c9c",
-	  "foreground": "#BAE67E",
+	  "foreground": "#ffd580",
 	  "widget.shadow": "#00030F",
 	  "selection.background": "#9c9c9c",
 	  "descriptionForeground": "#d7dce2",
