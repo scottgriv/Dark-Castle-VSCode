@@ -131,7 +131,7 @@
   
 	  // Editor colors
 	  "editor.background": "#000000",
-	  "editor.foreground": "#FF8040",
+	  "editor.foreground": "#FFD580",
 	  "editorLineNumber.foreground": "#FF8040",
 	  "editorLineNumber.activeForeground": "#ffd580",
 	  "editorCursor.background": "#000000",
