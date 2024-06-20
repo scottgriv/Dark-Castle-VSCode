@@ -82,7 +82,8 @@
 	  // Activity Bar
 	  "activityBar.background": "#000000",
 	  "activityBar.dropBorder": "#292929",
-	  "activityBar.foreground": "#FF8040",
+	  "activityBar.foreground": "#FFD580",
+	  "activityBar.activeBorder": "#FF8040",
 	  "activityBar.inactiveForeground": "#9c9c9c",
 	  "activityBar.border": "#292929",
 	  "activityBarBadge.background": "#FF8040",
@@ -136,7 +137,7 @@
 	  "editorLineNumber.activeForeground": "#ffd580",
 	  "editorCursor.background": "#000000",
 	  "editorCursor.foreground": "#FF8040",
-  //BAE67E
+
 	  // Editor selection colors
 	  "editor.selectionBackground": "#292929",
 	  "editor.selectionForeground": "#575757",
@@ -164,8 +165,8 @@
 	  "editor.rangeHighlightBackground": "#292929",
 	  // "editor.rangeHighlightBorder": "#9c9c9c55",
 	  "editorWhitespace.foreground": "#575757",
-	  "editorIndentGuide.background": "#9c9c9c33",
-	  "editorIndentGuide.activeBackground": "#575757",
+	  "editorIndentGuide.background1": "#9c9c9c33",
+	  "editorIndentGuide.activeBackground1": "#575757",
 	  "editorInlayHint.background": "#000000",
 	  "editorInlayHint.foreground": "#575757",
 	  "editorRuler.foreground": "#292929",
@@ -345,8 +346,10 @@
 	  "debugToolBar.border": "#292929",
   
 	  // Welcome Page
+	  /*
 	  "welcomePage.buttonBackground": "#292929",
 	  "welcomePage.buttonHoverBackground": "#29292999",
+	  */
 	  "walkThrough.embeddedEditorBackground": "#000000",
   
 	  // Git colors
@@ -741,7 +744,7 @@
 		"name": "Regular Expressions",
 		"scope": ["string.regexp"],
 		"settings": {
-		  "foreground": "#FF8040"
+		  "foreground": "#4DBCED"
 		}
 	  },
 	  {
@@ -862,7 +865,7 @@
 		"scope": ["markup.italic"],
 		"settings": {
 		  "fontStyle": "italic",
-		  "foreground": "#ef6b73"
+		  "foreground": "#4DBCED"
 		}
 	  },
 	  {
@@ -870,7 +873,7 @@
 		"scope": ["markup.bold"],
 		"settings": {
 		  "fontStyle": "bold",
-		  "foreground": "#ef6b73"
+		  "foreground": "#4DBCED"
 		}
 	  },
 	  {
@@ -883,10 +886,10 @@
 	  },
 	  {
 		"name": "Markup - Strike",
-		"scope": ["markup.strike"],
+		"scope": ["markup.strikethrough"],
 		"settings": {
-		  "fontStyle": "italic",
-		  "foreground": "#FF8040"
+		  "fontStyle": "strikethrough",
+		  "foreground": "#4DBCED"
 		}
 	  },
 	  {
@@ -925,7 +928,7 @@
 		  "text.html.markdown markup.inline.raw.string.markdown"
 		],
 		"settings": {
-		  "foreground": "#4DBCED"
+		  "foreground": "#08D220"
 		}
 	  },
 	  {
@@ -936,7 +939,7 @@
 		}
 	  },
 	  {
-		"name": "Markdown - Heading 1",
+		"name": "Markdown - Heading 2-6",
 		"scope": [
 		  "heading.1.markdown punctuation.definition.heading.markdown",
 		  "heading.2.markdown punctuation.definition.heading.markdown",
@@ -950,7 +953,7 @@
 		}
 	  },
 	  {
-		"name": "Markdown - Heading",
+		"name": "Markdown - Heading 1",
 		"scope": [
 		  "markdown.heading",
 		  "markup.heading",
@@ -967,7 +970,7 @@
 		"scope": ["markup.quote", "punctuation.definition.blockquote.markdown"],
 		"settings": {
 		  "fontStyle": "italic",
-		  "foreground": "#4DBCED"
+		  "foreground": "#AA1B86"
 		}
 	  },
 	  {
