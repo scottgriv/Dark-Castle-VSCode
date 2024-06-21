@@ -55,3 +55,4 @@ Icon?
 
 # Ignore the .vsix file
 *.vsix
+/packages
