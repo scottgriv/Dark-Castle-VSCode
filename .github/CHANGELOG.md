@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] - 2024-06-28
+
+### Changed
+
+* Focus border color.
+* Block variable color.
+* Find match color.
+
 ## [1.0.10] - 2024-06-20
 
 ### Changed
@@ -73,6 +81,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Official release of **Dark Castle Theme for Visual Studio Code**.
 
+[1.1.0]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.10...v1.1.0
 [1.0.10]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.9...v1.0.10
 [1.0.9]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.8...v1.0.9
 [1.0.8]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.7...v1.0.8

@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 	  // Base colors
-	  "focusBorder": "#9c9c9c",
+	  "focusBorder": "#575757",
 	  "foreground": "#ffd580",
 	  "widget.shadow": "#00030F",
 	  "selection.background": "#9c9c9c",
@@ -152,7 +152,7 @@
 	  // "editor.wordHighlightStrongBorder": "#FF8040",
   
 	  // Editor find/replace colors
-	  "editor.findMatchBackground": "#9c9c9c",
+	  "editor.findMatchBackground": "#333333",
 	  "editor.findMatchHighlightBackground": "#575757",
 	  "editor.findRangeHighlightBackground": "#575757",
 	  "editor.findMatchBorder": "#FF8040",
@@ -567,7 +567,7 @@
 		"name": "Block Level Variables",
 		"scope": ["meta.block variable.other"],
 		"settings": {
-		  "foreground": "#9c9c9c"
+		  "foreground": "#BAE67E"
 		}
 	  },
 	  {
