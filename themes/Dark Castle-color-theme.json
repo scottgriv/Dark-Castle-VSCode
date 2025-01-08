@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 	  // Base colors
-	  "focusBorder": "#575757",
+	  "focusBorder": "#404040",
 	  "foreground": "#ffd580",
 	  "widget.shadow": "#00030F",
 	  "selection.background": "#9c9c9c",
@@ -140,33 +140,33 @@
 
 	  // Editor selection colors
 	  "editor.selectionBackground": "#292929",
-	  "editor.selectionForeground": "#575757",
-	  "editor.inactiveSelectionBackground": "#575757",
+	  "editor.selectionForeground": "#404040",
+	  "editor.inactiveSelectionBackground": "#404040",
 	  "editor.selectionHighlightBackground": "#292929",
 	  // "editor.selectionHighlightBorder": "#9c9c9c55",
   
 	  // Editor word highlight colors
-	  "editor.wordHighlightBackground": "#575757",
+	  "editor.wordHighlightBackground": "#404040",
 	  // "editor.wordHighlightBorder": "#9c9c9c",
-	  "editor.wordHighlightStrongBackground": "#575757",
+	  "editor.wordHighlightStrongBackground": "#404040",
 	  // "editor.wordHighlightStrongBorder": "#FF8040",
   
 	  // Editor find/replace colors
 	  "editor.findMatchBackground": "#333333",
-	  "editor.findMatchHighlightBackground": "#575757",
-	  "editor.findRangeHighlightBackground": "#575757",
+	  "editor.findMatchHighlightBackground": "#404040",
+	  "editor.findRangeHighlightBackground": "#404040",
 	  "editor.findMatchBorder": "#FF8040",
 	  // "editor.findMatchHighlightBorder": "#FF8040",
 	  // "editor.findRangeHighlightBorder": "#FF8040",
-	  "editor.hoverHighlightBackground": "#575757",
+	  "editor.hoverHighlightBackground": "#404040",
 	  "editor.lineHighlightBackground": "#292929",
 	  "editor.lineHighlightBorder": "#292929",
 	  "editorLink.activeForeground": "#FF8040",
 	  "editor.rangeHighlightBackground": "#292929",
 	  // "editor.rangeHighlightBorder": "#9c9c9c55",
-	  "editorWhitespace.foreground": "#575757",
+	  "editorWhitespace.foreground": "#404040",
 	  "editorIndentGuide.background1": "#9c9c9c33",
-	  "editorIndentGuide.activeBackground1": "#575757",
+	  "editorIndentGuide.activeBackground1": "#404040",
 	  "editorInlayHint.background": "#000000",
 	  "editorInlayHint.foreground": "#575757",
 	  "editorRuler.foreground": "#292929",
