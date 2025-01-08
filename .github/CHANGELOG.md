@@ -87,15 +87,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Official release of **Dark Castle Theme for Visual Studio Code**.
 
-[1.1.1]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.1.0...v1.1.1
-[1.1.0]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.10...v1.1.0
-[1.0.10]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.9...v1.0.10
-[1.0.9]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.8...v1.0.9
-[1.0.8]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.7...v1.0.8
-[1.0.7]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.6...v1.0.7
-[1.0.6]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.5...v1.0.6
-[1.0.5]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.4...v1.0.5
-[1.0.4]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.3...v1.0.4
+[1.1.1]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/1.1.0...1.1.1
+[1.1.0]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/1.0.10...1.1.0
+[1.0.10]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/1.0.9...1.0.10
+[1.0.9]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/1.0.8...1.0.9
+[1.0.8]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/1.0.7...1.0.8
+[1.0.7]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/1.0.6...1.0.7
+[1.0.6]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/1.0.5...1.0.6
+[1.0.5]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/1.0.4...1.0.5
+[1.0.4]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.3...1.0.4
 [1.0.3]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.2...v1.0.3
 [1.0.2]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/scottgriv/Dark-Castle-VSCode/compare/v1.0.0...v1.0.1
